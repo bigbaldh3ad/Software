@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Buenos días somos estudiante de la universidad de panamá de la facultad de ingeniera informática 
+=======
+Buenos días somos estudiante de la unversidad
+>>>>>>> 941940b2563ee2e53c4770707d4bfdda04d4c970
